@@ -8,11 +8,12 @@
 
 ### Technologías 
   - Frontend
+  <br/>
   ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
   ![HTML5](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
   ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
   <br/>
-   - Backend
+  - Backend
   ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge)
   ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
   ![Oracle Sql](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)

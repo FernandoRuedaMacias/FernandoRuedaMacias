@@ -22,4 +22,6 @@
    <br>
 
 ### Expreiencia laboral
+ - ![Linkedin](https://es.linkedin.com/in/fernando-rueda-mac%C3%ADas-b6a9772b4)
+
 

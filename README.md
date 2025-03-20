@@ -21,6 +21,10 @@
 
    <br>
 
+### Proyectos realizados en clase.
+ - Del lado de cliente : [Póker](https://github.com/FernandoRuedaMacias/Pokerjs)
+ - Del lado del servidor : [Simulación de tienda](https://github.com/FernandoRuedaMacias/TrabajoDWS) y [CRUD Básico](https://github.com/FernandoRuedaMacias/CRUD-Basico-Laravel)
+
 ### Expreiencia laboral
  -  Linkedin : https://es.linkedin.com/in/fernando-rueda-mac%C3%ADas-b6a9772b4
 

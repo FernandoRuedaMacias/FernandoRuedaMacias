@@ -23,7 +23,8 @@
 
 ### Proyectos realizados en clase. :school_satchel:
  - Del lado de cliente : [Póker](https://github.com/FernandoRuedaMacias/Pokerjs)
- - Del lado del servidor : [Simulación de tienda](https://github.com/FernandoRuedaMacias/TrabajoDWS) y [CRUD Básico](https://github.com/FernandoRuedaMacias/CRUD-Basico-Laravel)
+ - Del lado del servidor : Primer trabajo de php:  [Primer trabajo](https://github.com/FernandoRuedaMacias/PrimerTrabajophp) , trabajos posteriores con laravel : [Simulación de tienda](https://github.com/FernandoRuedaMacias/TrabajoDWS) , [CRUD Básico](https://github.com/FernandoRuedaMacias/CRUD-Basico-Laravel)
+ - Un pequeño proyecto de Java:   [Trabajo Java](https://github.com/FernandoRuedaMacias/TrabajoFicherosJava)
 
 ### Expreiencia laboral :blue_book:
  -  Linkedin : https://es.linkedin.com/in/fernando-rueda-mac%C3%ADas-b6a9772b4

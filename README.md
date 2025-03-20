@@ -1,12 +1,12 @@
 <h1>Hola! Soy Fernando Rueda Macías</h1>
 <h2>Estudiante del IES Santiago Hernández</h2>
 
-## Sobre Mi
+## Sobre Mi :raising_hand:
 - Tengo 19 años y soy de Zaragoza , Aragón , España.
 - Soy Estudiante.
 - En mis estudios he dado tanto tecnologías de frontend como de backend , pero me gusta más el backend al poder asegurar la disponibilidad y integridad de los datos.
 
-## Tecnologías 
+## Tecnologías :computer: 
   ### Frontend
   ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
   ![HTML5](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
@@ -21,11 +21,11 @@
 
    <br>
 
-### Proyectos realizados en clase.
+### Proyectos realizados en clase. :school_satchel:
  - Del lado de cliente : [Póker](https://github.com/FernandoRuedaMacias/Pokerjs)
  - Del lado del servidor : [Simulación de tienda](https://github.com/FernandoRuedaMacias/TrabajoDWS) y [CRUD Básico](https://github.com/FernandoRuedaMacias/CRUD-Basico-Laravel)
 
-### Expreiencia laboral
+### Expreiencia laboral :blue_book:
  -  Linkedin : https://es.linkedin.com/in/fernando-rueda-mac%C3%ADas-b6a9772b4
 
 

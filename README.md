@@ -3,7 +3,7 @@
 
 ## Sobre Mi :raising_hand:
 - Tengo 19 años y soy de Zaragoza , Aragón , España.
-- Soy Estudiante.
+- Soy Programador.
 - En mis estudios he dado tanto tecnologías de frontend como de backend , pero me gusta más el backend al poder asegurar la disponibilidad y integridad de los datos.
 
 ## Tecnologías :computer: 

@@ -22,7 +22,7 @@
 
    <br>
 
-### Proyectos realizados en clase. :school_satchel:
+### Proyectos realizados en clase. :floppy_disk:
  - Del lado de cliente : [Póker](https://github.com/FernandoRuedaMacias/Pokerjs)
  - Del lado del servidor : Primer trabajo de php:  [Primer trabajo](https://github.com/FernandoRuedaMacias/PrimerTrabajophp) , trabajos posteriores con laravel : [Simulación de tienda](https://github.com/FernandoRuedaMacias/TrabajoDWS) , [CRUD Básico](https://github.com/FernandoRuedaMacias/CRUD-Basico-Laravel)
  - Un pequeño proyecto de Java:   [Trabajo Java](https://github.com/FernandoRuedaMacias/TrabajoFicherosJava)
